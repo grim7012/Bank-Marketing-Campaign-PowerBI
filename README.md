@@ -1,6 +1,6 @@
 # 📊 Bank Marketing Campaign Analysis (Power BI)
 
-This project analyzes the Bank Marketing Dataset using **Power BI** to discover insights about customer subscriptions.
+This project analyzes the Bank Marketing Dataset using **Power BI** to discover insights about customer subscriptions and creating a dashboard for the same.
 
 ## 🚀 Key Insights
 - Highest Performing Contact Type: Cellular outperforms Telephone
@@ -9,7 +9,7 @@ This project analyzes the Bank Marketing Dataset using **Power BI** to discover 
 - Best Month for Campaigns
 
 ## 📈 Dashboards
-![Dashboard Preview](screenshots/SS1.png)
+![Dashboard Preview](screenshots/SS2.png)
 
 ## 🛠️ Tech Used
 - Power BI
